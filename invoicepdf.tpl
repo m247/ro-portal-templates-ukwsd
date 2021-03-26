@@ -266,33 +266,5 @@ $pdf->Cell(0,2,"",'LR',1,'L',1);
 $pdf->Cell(0,4,"Allow up to 3 working days for the payment to reach your account.",'LRB',1,'L',1);
 $endypos = $pdf->GetY();
 $endpage = $pdf->GetPage();
-$pdf->Ln(6);
-
-#if ($pdf->GetY()>220) $pdf->AddPage();
-
-$startypos = $pdf->GetY();
-$startpage = $pdf->GetPage();
-$pdf->SetFont('helvetica','B',9);
-$pdf->Cell(0,4,"Payment by Cheque",'LTR',1,'L',1);
-$pdf->SetFont('helvetica','0',9);
-$pdf->Cell(0,4,"Please make cheques payable to UK Web.Solutions Direct Ltd, note the invoice number [$invoicenum] on the reverse and send your",'LR',1,'L',1);
-$pdf->Cell(0,4,"payment to the following address:",'LR',1,'L',1);
-$pdf->Cell(0,2,"",'LR',1,'L',1);
-$pdf->SetFont('helvetica','B',9);
-$pdf->Cell(40,4,"Address:",'L',0,'L',1);
-$pdf->Cell(140,4,"UK Web.Solutions Direct Ltd",'R',1,'L',1);
-$pdf->SetFont('helvetica','',9);
-$pdf->Cell(40,4,"",'L',0,'L',1);
-$pdf->Cell(140,4,"2-3 Ball Green",'R',1,'L',1);
-$pdf->Cell(40,4,"",'L',0,'L',1);
-$pdf->Cell(140,4,"Manchester",'R',1,'L',1);
-$pdf->Cell(40,4,"",'L',0,'L',1);
-$pdf->Cell(140,4,"M32 0QT",'R',1,'L',1);
-$pdf->Cell(40,4,"",'L',0,'L',1);
-$pdf->Cell(140,4,"United Kingdom",'R',1,'L',1);
-$pdf->Cell(0,2,"",'LR',1,'L',1);
-$pdf->Cell(0,4,"Allow up to 10 working days for the payment to reach your account.",'LRB',1,'L',1);
-$endypos = $pdf->GetY();
-$endpage = $pdf->GetPage();
 
 ?>

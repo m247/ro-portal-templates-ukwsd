@@ -277,37 +277,6 @@
                 </div>
             </div>
         </div>
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title"><strong>Payment by Cheque</strong></h3>
-            </div>
-            <div class="panel-body">
-                <div class="table-responsive">
-                    <p> Please make cheques payable to <strong>UK Web.Solutions Direct Ltd</strong>, note the invoice
-                        number
-                        [{$invoicenum}] on the reverse and send your payment to the following address:
-                    </p>
-                    <table class="table table-condensed">
-                        <tr>
-                            <th class="address">Address:</th>
-                            <td class="address">
-                                <strong>UK Web.Solutions Direct Ltd</strong>
-                                <br/>
-                                Turing House, Archway 5
-                                <br/>
-                                Manchester
-                                <br/>
-                                M15 5RL
-                                <br/>
-                                United Kingdom
-                            </td>
-                        </tr>
-                    </table>
-
-                    Allow up to 10 working days for the payment to reach your account.
-                </div>
-            </div>
-        </div>
         <div class="transactions-container small-text">
             <div class="table-responsive">
                 <table class="table table-condensed">
