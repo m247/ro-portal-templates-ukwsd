@@ -240,37 +240,37 @@
                     <table class="table table-condensed">
                         <tr>
                             <th>Bank:</th>
-                            <td>HSBC Bank Plc</td>
+                            <td>Santander UK plc</td>
                         </tr>
                         <tr>
                             <th class="address">Address:</th>
                             <td class="address">
-                                136 High Street
+                                2 Triton Square, Regent's Place
                                 <br/>
-                                Stockton-on-Tees
+                                London
                                 <br/>
-                                TS18 1LR
+                                NW1 3AN, United Kingdom
                             </td>
                         </tr>
                         <tr>
                             <th>Account Name:</th>
-                            <td>UK Web.Solutions Direct Ltd</td>
+                            <td>UK Web Solutions Direct Limited</td>
                         </tr>
                         <tr>
                             <th>Sort Code:</th>
-                            <td>40-43-11</td>
+                            <td>09-02-22</td>
                         </tr>
                         <tr>
                             <th>Account Number:</th>
-                            <td>61716948</td>
+                            <td>10962013</td>
                         </tr>
                         <tr>
                             <th>SWIFT:</th>
-                            <td>MIDLGB2157C</td>
+                            <td>ABBYGB2LXXX</td>
                         </tr>
                         <tr>
                             <th>IBAN:</th>
-                            <td>GB58 MIDL 404311 61716948</td>
+                            <td>GB52 ABBY 090222 10962013</td>
                         </tr>
                     </table>
                     Allow up to 3 working days for the payment to reach your account.
